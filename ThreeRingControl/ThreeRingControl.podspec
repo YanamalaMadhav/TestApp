@@ -69,7 +69,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source = { :git => "http://ios/ThreeRingControl.git", :tag => "#{s.version}" }
+  s.source = { :git => "https://github.com/YanamalaMadhav/TestApp", :tag => “1.0.0” }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
