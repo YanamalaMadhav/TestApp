@@ -91,6 +91,6 @@ Pod::Spec.new do |s|
   #  non-essential files like tests, examples and documentation.
   #
 
-  #  s.resources    = "ThreeRingControl/*.mp3"
+  s.resources    = "ThreeRingControl/*.mp3"
 
 end
